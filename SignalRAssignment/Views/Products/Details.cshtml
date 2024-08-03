@@ -1,0 +1,67 @@
+﻿@model SignalRAssignment.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <div class="row">
+        <div class="col-sm-6">
+            <dl class="row">
+                <dt class="col-sm-5">
+                    @Html.DisplayNameFor(model => model.Category.CategoryName)
+                </dt>
+                <dd class="col-sm-7">
+                    @Html.DisplayFor(model => model.Category.CategoryName)
+                </dd>
+                <dt class="col-sm-5">
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </dt>
+                <dd class="col-sm-7">
+                    @Html.DisplayFor(model => model.ProductName)
+                </dd>
+                <dt class="col-sm-5">
+                    @Html.DisplayNameFor(model => model.Weight)
+                </dt>
+                <dd class="col-sm-7">
+                    @Html.DisplayFor(model => model.Weight)
+                </dd>
+                <dt class="col-sm-5">
+                    @Html.DisplayNameFor(model => model.UnitPrice)
+                </dt>
+                <dd class="col-sm-7">
+                    @Html.DisplayFor(model => model.UnitPrice)
+                </dd>
+                <dt class="col-sm-5">
+                    @Html.DisplayNameFor(model => model.UnitsInStock)
+                </dt>
+                <dd class="col-sm-7">
+                    @Html.DisplayFor(model => model.UnitsInStock)
+                </dd>
+            </dl>
+        </div>
+        <div class="col-sm-4">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Image)
+                </dt>
+                <dd class="col-sm-8">
+                    <img src="~/@Model.Image" class="img-fluid" alt="Product Image">
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+
+<div class="d-flex flex-row justify-content-md-start pt-3 gap-2">
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.ProductId" class="btn btn-primary">Edit</a>
+    </div>
+    <div>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

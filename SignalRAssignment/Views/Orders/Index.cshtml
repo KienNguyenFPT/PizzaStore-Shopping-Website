@@ -1,0 +1,123 @@
+﻿@model PaginatedList<SignalRAssignment.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders Management";
+}
+
+<h1>Orders Management</h1>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a asp-action="Create">Create New</a>
+    <div style="display: flex; justify-content: flex-end;">
+        <input type="text" placeholder="Search..." onchange="searchAction(this.value)">
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Order Date
+            </th>
+            <th>
+                Required Date
+            </th>
+            <th>
+                Shipped Date
+            </th>
+            <th>
+                Freight
+            </th>
+            <th>
+                Member Name
+            </th>
+            <th>
+                Member Email
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequiredDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShippedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Freight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Member.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Member.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        @if (Model.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-pageNumber="@(Model.PageIndex - 1)">Previous</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <span class="page-link">Previous</span>
+            </li>
+        }
+
+        @for (var i = 1; i <= Model.TotalPages; i++)
+        {
+            if (i == Model.PageIndex)
+            {
+                <li class="page-item active">
+                    <span class="page-link">@i</span>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@i">@i</a>
+                </li>
+            }
+        }
+
+        @if (Model.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)">Next</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <span class="page-link">Next</span>
+            </li>
+        }
+    </ul>
+</nav>
+
+@section Scripts {
+    <script>
+        function searchAction(query) {
+            var url = '@Url.Action("Search", this)' + '?query=' + encodeURIComponent(query);
+            window.location.href = url;
+        }
+    </script>
+}

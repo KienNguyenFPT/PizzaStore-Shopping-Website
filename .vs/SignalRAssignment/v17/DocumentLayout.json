@@ -1,0 +1,861 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\statisticorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\statisticorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\statisticorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\statisticorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\statisticorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\statisticorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\services\\uploadimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\services\\uploadimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\members\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\members\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\wwwroot\\js\\addtocart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\wwwroot\\js\\addtocart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\orderdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\orderdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\migrations\\salesmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\migrations\\salesmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|c:\\users\\raiku\\source\\repos\\signalrassignment\\signalrassignment\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC33A8D-1F6E-4ADA-9E3C-E6A89EEA9471}|SignalRAssignment\\SignalRAssignment.csproj|solutionrelative:signalrassignment\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Members\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Edit.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Members\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:27:04.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:43:19.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:27:08.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:42:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:31:02.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\CartController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowI8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:41:42.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T06:31:38.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:12:51.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Details.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Members\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Details.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Members\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:35:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T05:24:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Product.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:38:51.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwv4YAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:20:16.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:27:44.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:49:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Member.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\Member.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwCEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:45:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:35:01.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Members\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:33:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:17:42.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T05:36:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\StatisticOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\StatisticOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\StatisticOrders\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\StatisticOrders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:41:27.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StatisticOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\StatisticOrders.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\StatisticOrders.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\StatisticOrders.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\StatisticOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:15:50.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatisticOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\StatisticOrdersController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\StatisticOrdersController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\StatisticOrdersController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\StatisticOrdersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:17:14.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:08:24.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SalesManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\SalesManagementContext.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\SalesManagementContext.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\SalesManagementContext.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\SalesManagementContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:39:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:43:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T05:52:49.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Suppliers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Create.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Suppliers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:08:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Suppliers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Suppliers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:59:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Supplier.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:54:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Details.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Suppliers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Details.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Suppliers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:20.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UploadImagesService.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\UploadImagesService.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Services\\UploadImagesService.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\UploadImagesService.cs",
+              "RelativeToolTip": "SignalRAssignment\\Services\\UploadImagesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:38:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\TokenService.cs",
+              "RelativeToolTip": "SignalRAssignment\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:38:46.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:20:15.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Order.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:24:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SignalRAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:26:54.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Services\\SearchService.cs",
+              "RelativeToolTip": "SignalRAssignment\\Services\\SearchService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:52:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Login.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Members\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Login.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Members\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T05:28:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\CartItem.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:38:24.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:46:21.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Members\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Members\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:35:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:35:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\Category.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:29:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "addToCart.js",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\wwwroot\\js\\addToCart.js",
+              "RelativeDocumentMoniker": "SignalRAssignment\\wwwroot\\js\\addToCart.js",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\wwwroot\\js\\addToCart.js",
+              "RelativeToolTip": "SignalRAssignment\\wwwroot\\js\\addToCart.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-23T08:35:34.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\OrderDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\OrderDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\OrderDetails\\Index.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\OrderDetails\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:15:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:17:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SalesManagementContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "RelativeToolTip": "SignalRAssignment\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAQwEoBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:21:18.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "SignalRAssignment\\Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:39:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\OrderDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\OrderDetails\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\OrderDetails\\Edit.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\OrderDetails\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:57:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Views\\Suppliers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Views\\Suppliers\\Delete.cshtml",
+              "RelativeToolTip": "SignalRAssignment\\Views\\Suppliers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:08:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\SignalRAssignment\\SignalRAssignment\\Program.cs",
+              "RelativeToolTip": "SignalRAssignment\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:14:32.684Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

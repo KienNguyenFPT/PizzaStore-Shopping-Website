@@ -1,0 +1,111 @@
+﻿@model IEnumerable<SignalRAssignment.Models.Member>
+
+@{
+    ViewData["Title"] = "Members Management";
+}
+
+<h1>Members Management</h1>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a asp-action="Create">Create New</a>
+    <div style="display: flex; justify-content: flex-end;">
+        <input type="text" placeholder="Search..." onchange="searchAction(this.value)">
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="display: none;">
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th style="display: none;">
+                @Html.DisplayNameFor(model => model.Avt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hobby)
+            </th>
+            <th>
+                <text>Role</text>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="display: none;">
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td style="display: none;">
+                    @Html.DisplayFor(modelItem => item.Avt)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Birthday)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hobby)
+                </td>
+                <td>
+                    @if (item.Type)
+                    {
+                        <text>Staff</text>
+                    }
+                    else
+                    {
+                        <text>User</text>
+                    }
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        function searchAction(query) {
+            var url = '@Url.Action("Search", this)' + '?query=' + encodeURIComponent(query);
+            window.location.href = url;
+        }
+    </script>
+}

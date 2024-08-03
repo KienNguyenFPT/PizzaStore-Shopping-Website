@@ -1,0 +1,120 @@
+﻿@model SignalRAssignment.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <div class="row">
+            <div class="col-md-8">
+                <form asp-action="Create" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="ProductName" class="control-label"></label>
+                        <input asp-for="ProductName" class="form-control" />
+                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CategoryId" class="control-label"></label>
+                        <select asp-for="CategoryId" class="form-control">
+                            <option value="">-- Select Category --</option>
+                            @foreach (var category in ViewData["CategoryId"] as SelectList)
+                            {
+                                <option value="@category.Value">@category.Text</option>
+                            }
+                        </select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="SupplierId" class="control-label"></label>
+                        <select asp-for="SupplierId" class="form-control">
+                            <option value="">-- Select Supplier --</option>
+                            @foreach (var supplier in ViewData["SupplierId"] as SelectList)
+                            {
+                                <option value="@supplier.Value">@supplier.Text</option>
+                            }
+                        </select>
+                        <span asp-validation-for="SupplierId" class="text-danger"></span>
+                    </div>
+            
+                    <div class="form-group">
+                        <label asp-for="Weight" class="control-label"></label>
+                        <input asp-for="Weight" class="form-control" />
+                        <span asp-validation-for="Weight" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="UnitPrice" class="control-label"></label>
+                        <input asp-for="UnitPrice" class="form-control" />
+                        <span asp-validation-for="UnitPrice" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="UnitsInStock" class="control-label"></label>
+                        <input asp-for="UnitsInStock" class="form-control" />
+                        <span asp-validation-for="UnitsInStock" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="ImageFile" class="control-label">Choose image</label>
+                        <input asp-for="ImageFile" class="form-control" type="file" accept="image/*" id="imageInput" />
+                        <span asp-validation-for="ImageFile" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex flex-row justify-content-md-start pt-3 gap-2">
+                        <div>
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </div>
+                        <div>
+                            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <dl class="row">
+            <dt class="col-md-2">
+                @Html.DisplayNameFor(model => model.Image)
+            </dt>
+            <dd class="col-sm-8">
+                <img id="previewImage" src="" class="img-fluid" alt="Product Image">
+            </dd>
+        </dl>
+    </div>
+
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $('#imageInput').change(function () {
+                previewImage(this);
+            });
+        });
+        function previewImage(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#previewImage').attr('src', e.target.result);
+                }
+
+                reader.readAsDataURL(input.files[0]);
+            } else {
+                $('#previewImage').attr('src', '');
+            }
+        }
+    </script>
+}

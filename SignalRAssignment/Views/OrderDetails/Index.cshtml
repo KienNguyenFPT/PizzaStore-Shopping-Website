@@ -1,0 +1,72 @@
+﻿@model IEnumerable<SignalRAssignment.Models.OrderDetail>
+
+@{
+    ViewData["Title"] = "Orders Detail Management";
+}
+
+<h1>Orders Detail Management</h1>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a asp-action="Create">Create New</a>
+    <div style="display: flex; justify-content: flex-end;">
+        <input type="text" placeholder="Search..." onchange="searchAction(this.value)">
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts {
+<script>
+    function searchAction(query) {
+        var url = '@Url.Action("Search", this)' + '?query=' + encodeURIComponent(query);
+        window.location.href = url;
+    }
+</script>
+}

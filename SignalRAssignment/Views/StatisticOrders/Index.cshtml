@@ -1,0 +1,65 @@
+﻿@model SignalRAssignment.Models.StatisticOrders
+
+@{
+    ViewData["Title"] = "Statistic Orders";
+}
+
+<h1>Statistic Orders</h1>
+<div style="display: flex; gap: 20px;">
+
+    <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+        <h3>Order Summary</h3>
+        <p>Total Orders: @Model.OrderCount</p>
+        <p>Total Revenue: @Model.TotalRevenue</p>
+    </div>
+
+    <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+        <h3>Top Buyer</h3>
+        <p>Buyer ID: @Model.TopBuyer</p>
+        <p>Buyer Email: @Model.TopBuyerEmail</p>
+        <p>Amount Spent: @Model.TopBuyerAmount.ToString("C")</p>
+    </div>
+
+    <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+        <h3>Top Product</h3>
+        <p>Product Name: @Model.TopProduct</p>
+        <p>Quantity Sold: @Model.TopProductQuantity</p>
+    </div>
+
+</div>
+
+<div>
+    <h3>Order Statistics</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Member ID</th>
+                <th>Member Email</th>
+                <th>Total Spent</th>
+                <th>Order Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var stat in Model.OrderStatistics)
+            {
+                <tr>
+                    <td>@stat.MemberId</td>
+                    <td>@stat.MemberEmail</td>
+                    <td>@stat.TotalSpent.ToString("C")</td>
+                    <td>
+                        <ul>
+                            @foreach (var detail in stat.Orders)
+                            {
+                                <li>Product ID: @detail.ProductId, Quantity: @detail.Quantity, Unit Price: @detail.UnitPrice.ToString("C")</li>
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
